@@ -17,7 +17,7 @@ echo '화살표 배열'.$earth['test'].'입니다';
 echo '<br>';
 
 //반올림
-$roundTest01 = round(1542,-2);
-echo '반올림값'.$roundTest011;
+$roundTest = round(1542,-2);
+echo '반올림값'.$roundTest;
 
 ?>
