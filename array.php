@@ -18,6 +18,6 @@ echo '<br>';
 
 //반올림
 $roundTest01 = round(1542,-2);
-echo '반올림값'.$roundTest01;
+echo '반올림값'.$roundTest011;
 
 ?>
